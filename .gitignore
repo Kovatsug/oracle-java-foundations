@@ -1,0 +1,10 @@
+# Ignora a pasta .idea inteira e tudo dentro dela
+.idea/
+
+# Ignora arquivos de projetos do Android Studio / IntelliJ em qualquer pasta
+*.iml
+
+# Ignora arquivos temporários locais
+.shelf/
+.idea/workspace.xml
+mavenHomeManager.xml
